@@ -117,3 +117,7 @@ david["deudas"]=10000;
 console.log(david);
 delete david.hijos;
 console.log(david);
+
+
+
+

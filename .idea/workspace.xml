@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/00-introducción/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/david.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-introducción/david.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mi-carpeta/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mi-carpeta/gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma.js" beforeDir="false" afterPath="$PROJECT_DIR$/00-introducción/suma.js" afterDir="false" />
-    </list>
+    <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +19,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RRI0RelXHqFsBsvqc4E5Pj6j70" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-javascript" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-javascript" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/00-introducción" />
       <recent name="$PROJECT_DIR$" />
@@ -59,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569623257716</updated>
       <workItem from="1569623258935" duration="1961000" />
-      <workItem from="1569878027084" duration="3541000" />
+      <workItem from="1569878027084" duration="3629000" />
+      <workItem from="1571433434690" duration="6130000" />
     </task>
     <servers />
   </component>

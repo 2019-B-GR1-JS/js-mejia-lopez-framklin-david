@@ -108,3 +108,37 @@ const respuestaEjercicio=arreglo
 
 console.log('respuestaEjercicio',respuestaEjercicio);
 console.log('arreglo',arreglo );
+
+
+const respFind=
+    arreglo.find(
+        (valorActual,indice,arreglo)=>{
+            return valorActual===8;
+        }
+    );
+
+console.log('resFind',respFind);
+console.log('arreglo',arreglo );
+
+
+const respFindIndex=
+    arreglo.findIndex(
+        (valorActual,indice,arreglo)=>{
+            return valorActual===8;
+        }
+    );
+
+console.log('resFindIndex',respFindIndex);
+console.log('arreglo',arreglo );
+
+const respuestaReduce=
+    arreglo.reduce(
+        (valorInicial,valorActual,indice,arreglo)=>{
+            return valorInicial-valorActual;
+        },
+        100//VALOR INICIAL
+    );
+
+
+console.log('respuestaReduce',respuestaReduce);
+console.log('arreglo',arreglo );

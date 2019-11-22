@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-javascript/06-sync-async.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-javascript/07-promesas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +25,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/01-javascript" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/03-angular/components/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +65,9 @@
       <workItem from="1571433434690" duration="6189000" />
       <workItem from="1571692180240" duration="1017000" />
       <workItem from="1571693279925" duration="5357000" />
-      <workItem from="1572297594983" duration="4062000" />
+      <workItem from="1572297594983" duration="4141000" />
+      <workItem from="1574457453594" duration="1283000" />
+      <workItem from="1574462626543" duration="1251000" />
     </task>
     <servers />
   </component>

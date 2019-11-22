@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="">
+    <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="Angular Clase 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +67,16 @@
       <workItem from="1571693279925" duration="5357000" />
       <workItem from="1572297594983" duration="4141000" />
       <workItem from="1574457453594" duration="1283000" />
-      <workItem from="1574462626543" duration="1251000" />
+      <workItem from="1574462626543" duration="1498000" />
     </task>
+    <task id="LOCAL-00001" summary="Angular Clase 1">
+      <created>1574464007671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574464007671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Angular Clase 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular Clase 1" />
   </component>
 </project>

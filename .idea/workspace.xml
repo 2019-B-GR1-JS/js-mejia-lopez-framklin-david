@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="93374b99-1a89-42e4-8f9c-32b3255e95d4" name="Default Changelist" comment="Angular Clase 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/app.component.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/components/src/app/mi-primer-componente/mi-primer-componente.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +79,8 @@
       <workItem from="1572297594983" duration="4141000" />
       <workItem from="1574457453594" duration="1283000" />
       <workItem from="1574462626543" duration="1498000" />
-      <workItem from="1574716402612" duration="6325000" />
+      <workItem from="1574716402612" duration="6443000" />
+      <workItem from="1575321174278" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="Angular Clase 1">
       <created>1574464007671</created>

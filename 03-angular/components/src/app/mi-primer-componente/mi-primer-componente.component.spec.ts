@@ -10,7 +10,7 @@ describe('MiPrimerComponenteComponent', () => {
     TestBed.configureTestingModule({
       declarations: [ MiPrimerComponenteComponent ]
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {

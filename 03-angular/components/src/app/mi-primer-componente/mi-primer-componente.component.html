@@ -1,11 +1,14 @@
+ines (28 sloc) 861 Bytes
+
 
 <h1>{{titulo}}</h1>
 <!-- {{}} -> Interpolacion  -->
 <!-- MOSTRAR HTML -->
 <!-- Acceder a metodos y propiedades de la clase -->
-<img [widt]="tamano"
-     height="200px"
-     [src]="imagen" alt="">
+<img   (mousemove)="disminuirImagen()"
+       [width]="ancho"
+       [height]="alto"
+       [src]="imagen" alt="">
 <!-- Property Binding -->
 <!-- [atributo]="valor" -> Atributos -->
 <p>{{textoImagen}}</p>
@@ -16,4 +19,15 @@
 >
   {{textoBoton}}
 </button>
+<div>
 
+  <input type=""  placeholder="inserte un numero" (change)="getNumberA($event)"
+  >
+  <input type="" placeholder="inserte otro numero"  (change)="getNumberB($event)"
+         (blur)= "Operar()"
+  >
+  <input type="text" value={{totalSuma}}>
+  <input type="text" value={{totalResta}}>
+  <input type="text" value={{totalMultiplicacion}}>
+  <input type="text" value={{totalDivision}}>
+</div>

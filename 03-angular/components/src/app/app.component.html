@@ -1,9 +1,11 @@
+
 <style>
-  h1 {
-    color:blue;
+  h1{
+    color: blue;
   }
 </style>
 <h1>Inicio</h1>
+
 <app-mi-primer-componente
   [titulo]="arregloObjetos[0].apellido"
   [textoImagen]="arregloObjetos[0].nombre"
@@ -11,11 +13,6 @@
   [imagen]="arregloObjetos[0].comida"
   (cambioSueldo)="imprimirSueldo($event)"
 ></app-mi-primer-componente>
-
-
-
-
-
 
 <app-mi-primer-componente
   [titulo]="arregloObjetos[1].apellido"
